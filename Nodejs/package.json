@@ -1,0 +1,16 @@
+{
+  "name": "entreganode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "js-file-download": "^0.4.12"
+  }
+}
